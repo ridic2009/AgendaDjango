@@ -1,0 +1,3 @@
+# AgendaDjango
+oleg pidor
+
