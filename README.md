@@ -1,3 +1,2 @@
 # AgendaDjango
-oleg pidor
-
+test
